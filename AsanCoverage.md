@@ -1,0 +1,1 @@
+Moved to http://clang.llvm.org/docs/SanitizerCoverage.html

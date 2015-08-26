@@ -1,0 +1,1 @@
+The wiki was moved to [GitHub](https://github.com/google/kasan/wiki).
